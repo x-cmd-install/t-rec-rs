@@ -1,0 +1,165 @@
+- repo: nix_stable_24_05
+  srcname: t-rec
+  visiblename: t-rec
+  version: 0.7.6
+  origversion: null
+  status: outdated
+  summary: Blazingly fast terminal recorder that generates animated gif images for the web written in rust
+  maintainers:
+    - operator+nix@hoverbear.org
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: t-rec
+  binname: t-rec
+  visiblename: t-rec
+  version: 0.8.2
+  origversion: 0.8.2-1
+  status: newest
+  summary: Blazingly fast terminal recorder
+  maintainers:
+    - orhun@aur
+  licenses:
+    - GPL3
+- repo: aur
+  srcname: t-rec-bin
+  binname: t-rec-bin
+  visiblename: t-rec-bin
+  version: 0.8.2
+  origversion: 0.8.2-1
+  status: newest
+  summary: Blazingly fast terminal recorder
+  maintainers:
+    - razor.x@aur
+  licenses:
+    - GPL3
+- repo: aur
+  srcname: t-rec-git
+  binname: t-rec-git
+  visiblename: t-rec-git
+  version: 0.7.6.r0.gda911b9
+  origversion: 0.7.6.r0.gda911b9-1
+  status: rolling
+  summary: Blazingly fast terminal recorder (git)
+  maintainers:
+    - orhun@aur
+  licenses:
+    - GPL3
+- repo: homebrew
+  srcname: t-rec
+  visiblename: t-rec
+  version: 0.8.2
+  origversion: null
+  status: newest
+  summary: Blazingly fast terminal recorder that generates animated gif images for the web
+- repo: macports
+  srcname: graphics/t-rec
+  binname: t-rec
+  visiblename: t-rec
+  version: 0.8.2
+  origversion: null
+  status: newest
+  summary: Blazingly fast terminal recorder that generates animated GIF images for the Web
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - GPL-3
+  categories:
+    - graphics
+- repo: nix_stable_24_11
+  srcname: t-rec
+  visiblename: t-rec
+  version: 0.7.6
+  origversion: null
+  status: outdated
+  summary: Blazingly fast terminal recorder that generates animated gif images for the web written in rust
+  maintainers:
+    - operator+nix@hoverbear.org
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: t-rec
+  visiblename: t-rec
+  version: 0.7.9
+  origversion: null
+  status: outdated
+  summary: Blazingly fast terminal recorder that generates animated gif images for the web written in rust
+  maintainers:
+    - operator+nix@hoverbear.org
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: t-rec
+  visiblename: t-rec
+  version: 0.7.10
+  origversion: null
+  status: outdated
+  summary: Blazingly fast terminal recorder that generates animated gif images for the web written in rust
+  maintainers:
+    - operator+nix@hoverbear.org
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: t-rec
+  visiblename: t-rec
+  version: 0.8.2
+  origversion: null
+  status: newest
+  summary: Blazingly fast terminal recorder that generates animated gif images for the web written in rust
+  maintainers:
+    - operator+nix@hoverbear.org
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: nix_unstable
+  srcname: t-rec
+  visiblename: t-rec
+  version: 0.8.2
+  origversion: null
+  status: newest
+  summary: Blazingly fast terminal recorder that generates animated gif images for the web written in rust
+  maintainers:
+    - operator+nix@hoverbear.org
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: pkgsrc_2026_1
+  srcname: multimedia/t-rec
+  binname: t-rec
+  visiblename: multimedia/t-rec
+  version: 0.8.2
+  origversion: 0.8.2nb2
+  status: newest
+  summary: Terminal recorder
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - multimedia
+- repo: pkgsrc_2026_2
+  srcname: multimedia/t-rec
+  binname: t-rec
+  visiblename: multimedia/t-rec
+  version: 0.8.2
+  origversion: 0.8.2nb5
+  status: newest
+  summary: Terminal recorder
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - multimedia
+- repo: pkgsrc_current
+  srcname: multimedia/t-rec
+  binname: t-rec
+  visiblename: multimedia/t-rec
+  version: 0.8.2
+  origversion: 0.8.2nb8
+  status: newest
+  summary: Terminal recorder
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - multimedia
