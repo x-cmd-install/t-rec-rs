@@ -4,7 +4,7 @@
 
 Blazingly fast terminal recorder that generates animated gif images for the web written in rust
 
-[![x-cmd/install — t-rec-rs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/t-rec-rs.svg)](https://x-cmd.com/install/t-rec-rs)
+[![x-cmd/install — t-rec-rs Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/t-rec-rs.svg)](https://x-cmd.com/install/t-rec-rs)
 
 ## Install
 
@@ -30,8 +30,8 @@ Overall score: **3.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/20 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/20 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 6 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 2 | 3 | 8 | 0 | 0 | 8 |
-| last180d | 2026-03-26 | 4 | 10 | 9 | 1 | 1 | 17 |
-| 360d | 2025-09-27 | 9 | 35 | 12 | 4 | 4 | 54 |
-| last720d | 2024-10-02 | 12 | 65 | 13 | 9 | 6 | 104 |
+| 30d | 2026-08-24 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 6 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 2 | 3 | 8 | 0 | 0 | 8 |
+| last180d | 2026-03-27 | 4 | 10 | 9 | 1 | 1 | 17 |
+| 360d | 2025-09-28 | 9 | 35 | 12 | 4 | 4 | 54 |
+| last720d | 2024-10-03 | 12 | 65 | 13 | 9 | 6 | 104 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for t-rec-rs lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:36:00Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:34:34Z._
