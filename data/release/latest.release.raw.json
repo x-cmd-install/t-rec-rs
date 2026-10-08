@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2678714,
       "digest": "sha256:94db8c41402b2ece4eb807b8673d9f3a7365cceaba83501ceb9e60bc7bc0308b",
-      "download_count": 2633,
+      "download_count": 2639,
       "created_at": "2025-12-19T22:36:09Z",
       "updated_at": "2025-12-19T22:36:10Z",
       "browser_download_url": "https://github.com/sassman/t-rec-rs/releases/download/v0.8.2/t-rec-v0.8.2-x86_64-unknown-linux-musl.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2050856,
       "digest": "sha256:abf5f6ff3de2a4a4e8fa6a488656d2af63b7edd5a30532d62e8470769d4abe7b",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2025-12-19T22:36:17Z",
       "updated_at": "2025-12-19T22:36:18Z",
       "browser_download_url": "https://github.com/sassman/t-rec-rs/releases/download/v0.8.2/t-rec_0.8.2-1_amd64.deb"
