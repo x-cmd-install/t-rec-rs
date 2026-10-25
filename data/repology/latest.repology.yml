@@ -41,6 +41,13 @@
   origversion: null
   status: newest
   summary: Blazingly fast terminal recorder that generates animated gif images for the web
+- repo: homebrew
+  srcname: t-rec
+  visiblename: t-rec
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Blazingly fast terminal recorder that generates animated gif images for the web
 - repo: macports
   srcname: graphics/t-rec
   binname: t-rec
