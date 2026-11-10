@@ -163,7 +163,7 @@
   binname: t-rec
   visiblename: multimedia/t-rec
   version: 0.8.2
-  origversion: 0.8.2nb11
+  origversion: 0.8.2nb12
   status: newest
   summary: Terminal recorder
   maintainers:
