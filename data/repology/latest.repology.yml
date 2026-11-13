@@ -1,3 +1,15 @@
+- repo: nix_stable_25_05
+  srcname: t-rec
+  visiblename: t-rec
+  version: 0.7.9
+  origversion: null
+  status: outdated
+  summary: Blazingly fast terminal recorder that generates animated gif images for the web written in rust
+  maintainers:
+    - operator+nix@hoverbear.org
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
 - repo: aur
   srcname: t-rec
   binname: t-rec
@@ -86,18 +98,6 @@
     - mail@beyermatthias.de
   licenses:
     - GPL-3.0-only
-- repo: nix_stable_25_05
-  srcname: t-rec
-  visiblename: t-rec
-  version: 0.7.9
-  origversion: null
-  status: outdated
-  summary: Blazingly fast terminal recorder that generates animated gif images for the web written in rust
-  maintainers:
-    - operator+nix@hoverbear.org
-    - mail@beyermatthias.de
-  licenses:
-    - GPL-3.0-only
 - repo: nix_stable_25_11
   srcname: t-rec
   visiblename: t-rec
@@ -163,7 +163,7 @@
   binname: t-rec
   visiblename: multimedia/t-rec
   version: 0.8.2
-  origversion: 0.8.2nb12
+  origversion: 0.8.2nb13
   status: newest
   summary: Terminal recorder
   maintainers:
