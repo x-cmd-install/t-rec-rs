@@ -24,6 +24,16 @@ Total: **5,811** lines of code across **70** files in the top 5 languages.
 | Yaml | 29 | 0 | 4 | 1 |
 | Markdown | 0 | 655 | 227 | 3 |
 
+## OpenSSF Scorecard
+
+Overall score: **2.8 / 10**
+
+Lowest-scoring checks:
+
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/20 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/sassman/t-rec-rs>
@@ -38,7 +48,7 @@ Total: **5,811** lines of code across **70** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,258 · **Forks**: 36 · **Open issues**: 52 · **Contributors**: 13
+- **Stars**: 1,257 · **Forks**: 36 · **Open issues**: 52 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -48,12 +58,12 @@ Total: **5,811** lines of code across **70** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 4 | 10 | 10 | 1 | 1 | 10 |
-| 360d | 2025-11-22 | 8 | 28 | 13 | 3 | 4 | 37 |
-| last720d | 2024-11-27 | 12 | 65 | 14 | 8 | 6 | 103 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 4 | 7 | 9 | 1 | 1 | 10 |
+| 360d | 2025-11-24 | 8 | 27 | 13 | 3 | 4 | 37 |
+| last720d | 2024-11-29 | 12 | 65 | 14 | 8 | 6 | 103 |
 
 ## Release assets
 
@@ -81,4 +91,4 @@ Install metadata for t-rec-rs lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:35:59Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:33:59Z._
