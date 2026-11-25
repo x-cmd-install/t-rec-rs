@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,257 · **Forks**: 36 · **Open issues**: 52 · **Contributors**: 13
+- **Stars**: 1,258 · **Forks**: 36 · **Open issues**: 52 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 2 | 5 | 9 | 0 | 0 | 9 |
-| 360d | 2025-11-29 | 8 | 27 | 13 | 3 | 4 | 26 |
-| last720d | 2024-12-04 | 12 | 65 | 14 | 8 | 6 | 103 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 2 | 5 | 9 | 0 | 0 | 9 |
+| 360d | 2025-11-30 | 8 | 21 | 13 | 2 | 4 | 26 |
+| last720d | 2024-12-05 | 12 | 65 | 14 | 8 | 6 | 103 |
 
 ## Release assets
 
@@ -72,15 +72,6 @@ Lowest-scoring checks:
 | [t-rec-v0.8.2-x86_64-apple-darwin.tar.gz](https://github.com/sassman/t-rec-rs/releases/download/v0.8.2/t-rec-v0.8.2-x86_64-apple-darwin.tar.gz) | 2.3 MiB | `native/darwin/x64` |
 | [t-rec-v0.8.2-x86_64-unknown-linux-musl.tar.gz](https://github.com/sassman/t-rec-rs/releases/download/v0.8.2/t-rec-v0.8.2-x86_64-unknown-linux-musl.tar.gz) | 2.6 MiB | `native/linux/x64/musl` |
 | [t-rec_0.8.2-1_amd64.deb](https://github.com/sassman/t-rec-rs/releases/download/v0.8.2/t-rec_0.8.2-1_amd64.deb) | 2.0 MiB | `runtime/deb/amd64` |
-
-## Distribution status
-
-Reported by **15** distros on [repology.org](https://repology.org/project/t-rec-rs). **9** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.8.2` | ✅ latest |
-| Nix unstable | `0.8.2` | ✅ latest |
 
 ## Improve this data
 
@@ -91,4 +82,4 @@ Install metadata for t-rec-rs lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:22:48Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:10:47Z._
